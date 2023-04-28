@@ -1,4 +1,4 @@
 # SmitWork
 
-string handling
-array handling
+#string handling
+#array handling
